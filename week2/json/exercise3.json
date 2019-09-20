@@ -1,0 +1,16 @@
+{
+    "name":"string",
+    "weigh": [
+        {
+            "kilograms":"100"
+        },
+        {
+            "tons":"10"
+        }
+    ],
+    "live":"jungle",
+    "endangered":false,
+    "kinds of foods":[],
+    "animals that eat it":[],
+    "delicious?":[1, 2, 3, 4, 5]
+}

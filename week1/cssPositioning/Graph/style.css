@@ -1,0 +1,58 @@
+#frame {
+    height: 200px;
+    width: 350px;
+    background-color: #7B68EE;
+    position: relative;
+    border-radius: 10px;
+}
+
+.text {
+    font-weight: bold
+}
+
+#money {
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 2.5px
+}
+
+#time {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+
+.poll {
+    width: 25px;
+    background-color: #C0C0C0;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px
+}
+
+#first {
+    height: 25px;
+    margin-left: 10px; 
+}
+
+#second {
+    height: 100px;
+    margin-left: 60px; 
+}
+
+#third {
+    height: 150px;
+    margin-left: 110px; 
+}
+
+#fourth {
+    height: 125px;
+    margin-left: 160px; 
+}
+
+#fifth {
+    height: 75px;
+    margin-left: 210px; 
+}
